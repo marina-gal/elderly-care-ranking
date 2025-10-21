@@ -73,6 +73,7 @@ Shows the total performance score for each home.
 - *Care Home 3* and *Care Home 7* clearly outperform others.  
 - *Care Home 5* and *Care Home 10* are below average.  
 - Most institutions cluster between 40–60 points.
+<img width="424" height="300" alt="image" src="https://github.com/user-attachments/assets/fd438e32-2442-47da-be7a-347360e406b3" />
 
 ### Satisfaction vs Other Dimensions (Scatter Plots)
 Explored relationships between **Satisfaction** and key metrics:
