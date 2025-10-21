@@ -78,6 +78,8 @@ Shows the total performance score for each home.
 ### Satisfaction vs Other Dimensions (Scatter Plots)
 Explored relationships between **Satisfaction** and key metrics:
 
+<img width="524" height="319" alt="image" src="https://github.com/user-attachments/assets/43f86446-a7c5-447d-881b-0ae5d8975e75" />
+
 | Comparison | Correlation | Interpretation |
 |-------------|-------------|----------------|
 | Satisfaction vs Staffing | -0.39 | Moderate negative — higher staffing does not necessarily lead to higher satisfaction |
