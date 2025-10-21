@@ -98,3 +98,4 @@ Displays the five dimension scores for each home.
 - *Care Home 5:* Weak across all dimensions.  
 - *Care Home 6* & *Care Home 9:* Average and consistent performance.
 
+<img width="915" height="516" alt="image" src="https://github.com/user-attachments/assets/7fd7008d-c105-4ed2-a692-a79c63f43950" />
