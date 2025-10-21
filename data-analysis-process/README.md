@@ -69,7 +69,7 @@ Lowest-performing home: Care Home 5 (Total Score ≈ 28.9)
 
 Most homes scored between 40–60, showing moderate overall performance.
 
-Graph 1 – Bar Chart “Score per Care Home”
+*Graph 1 – Bar Chart “Score per Care Home”*
 
 This horizontal bar chart visualizes the overall ranking of each home.
 Insights:
@@ -82,4 +82,4 @@ The mid-tier homes (e.g., Care Home 2, 6, 9) cluster around 45–55 points.
 
 This visualization provides a clear comparative overview of institutional performance.
 
-![Uploading image.png…]()
+<img width="529" height="296" alt="image" src="https://github.com/user-attachments/assets/cb779546-909c-4c01-9b02-640985cceb3a" />
