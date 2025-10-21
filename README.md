@@ -1,6 +1,6 @@
 # Elderly Care Homes Ranking Project
 
-Objective
+Objective:
 The goal of this project is to analyze and rank elderly care homes based on multiple performance dimensions (quality, staff ratio, resident satisfaction, etc.).
 
 Data Preparation
