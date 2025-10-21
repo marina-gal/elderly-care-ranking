@@ -52,34 +52,46 @@ Infection Rate: One lower and one higher outlier identified (1.79, 6.23), both c
 IT Readiness & Satisfaction: All values within the expected range (no missing or outlier cases).
 
 # Sheet 3 – Scoring, Ranking & Visualization
-<img width="945" height="495" alt="image" src="https://github.com/user-attachments/assets/d477f0a5-f936-4553-a695-ab8d9dedc0c2" />
+<img width="589" height="128" alt="image" src="https://github.com/user-attachments/assets/5f147e10-979a-4d7e-8fd1-afd39e42375f" />
 
-This sheet presents the final stage of the project: normalization, scoring, and visual analysis of elderly care home performance.
+All cleaned variables were converted to a **0–100 scale** (higher = better).  
+A **Total Score** was computed as the average of all dimension scores per home.
 
-Score Calculation
+**Top performers:**
+- 🥇 *Care Home 3* — Total Score: **73.86**
+- 🥈 *Care Home 7* — Total Score: **61.95**
+- 🥉 *Care Home 2* — Total Score: **53.47**
 
-Each variable (Staffing Level, Avg Waiting Time, Infection Rate, IT Readiness, and Satisfaction) was normalized to a 0–100 scale, where higher scores indicate better performance.
-A Total Score was computed as the average of all dimension scores for each care home.
+**Lowest performers:**
+- *Care Home 5* — Total Score: **28.85**
+- *Care Home 10* — Total Score: **32.33**
 
-Key results:
+Visual Analysis
 
-Highest-performing home: Care Home 3 (Total Score ≈ 73.9)
+###  Score per Care Home (Bar Chart)
+Shows the total performance score for each home.  
+- *Care Home 3* and *Care Home 7* clearly outperform others.  
+- *Care Home 5* and *Care Home 10* are below average.  
+- Most institutions cluster between 40–60 points.
 
-Lowest-performing home: Care Home 5 (Total Score ≈ 28.9)
+### Satisfaction vs Other Dimensions (Scatter Plots)
+Explored relationships between **Satisfaction** and key metrics:
 
-Most homes scored between 40–60, showing moderate overall performance.
+| Comparison | Correlation | Interpretation |
+|-------------|-------------|----------------|
+| Satisfaction vs Staffing | -0.4 | Weak negative — more staff doesn’t always mean higher satisfaction |
+| Satisfaction vs Waiting Time | -0.5 | Moderate negative — longer waits reduce satisfaction |
+| Satisfaction vs Infection Rate | -0.2 | Weak negative — higher infection rates slightly lower satisfaction |
+| Satisfaction vs IT Readiness | -0.2 | Minimal relationship — IT alone doesn’t impact satisfaction |
 
-*Graph 1 – Bar Chart “Score per Care Home”*
+Resident satisfaction is most influenced by **waiting time** and **infection rate**.
 
-This horizontal bar chart visualizes the overall ranking of each home.
-Insights:
+### Dimensional Analysis (Radar / Spider Chart)
+Displays the five dimension scores for each home.
 
-Care Home 3 and Care Home 7 clearly outperform the others, scoring above 60.
+**Highlights:**
+- *Care Home 3:* High and balanced across all categories (top performer).  
+- *Care Home 7:* Strong in IT and waiting time, moderate elsewhere.  
+- *Care Home 5:* Weak across all dimensions.  
+- *Care Home 6* & *Care Home 9:* Average and consistent performance.
 
-Care Home 5 and Care Home 10 underperform significantly compared to the group average.
-
-The mid-tier homes (e.g., Care Home 2, 6, 9) cluster around 45–55 points.
-
-This visualization provides a clear comparative overview of institutional performance.
-
-<img width="529" height="296" alt="image" src="https://github.com/user-attachments/assets/cb779546-909c-4c01-9b02-640985cceb3a" />
