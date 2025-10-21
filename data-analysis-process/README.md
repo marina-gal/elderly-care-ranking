@@ -80,12 +80,12 @@ Explored relationships between **Satisfaction** and key metrics:
 
 | Comparison | Correlation | Interpretation |
 |-------------|-------------|----------------|
-| Satisfaction vs Staffing | -0.4 | Weak negative — more staff doesn’t always mean higher satisfaction |
-| Satisfaction vs Waiting Time | -0.5 | Moderate negative — longer waits reduce satisfaction |
-| Satisfaction vs Infection Rate | -0.2 | Weak negative — higher infection rates slightly lower satisfaction |
-| Satisfaction vs IT Readiness | -0.2 | Minimal relationship — IT alone doesn’t impact satisfaction |
+| Satisfaction vs Staffing | -0.39 | Moderate negative — higher staffing does not necessarily lead to higher satisfaction |
+| Satisfaction vs Waiting Time | -0.35 | Moderate negative — longer waiting times tend to lower satisfaction |
+| Satisfaction vs Infection Rate | -0.03 | Very weak to none — infection rate appears unrelated to satisfaction in this dataset |
+| Satisfaction vs IT Readiness | -0.25 | Weak negative — IT readiness has a limited direct influence on satisfaction |
 
-Resident satisfaction is most influenced by **waiting time** and **infection rate**.
+Resident satisfaction is most affected by waiting time and staffing levels, while infection rate and IT readiness show little to no direct correlation in this dataset.
 
 ### Dimensional Analysis (Radar / Spider Chart)
 Displays the five dimension scores for each home.
