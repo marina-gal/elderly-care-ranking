@@ -1,7 +1,7 @@
-# Elderly Care Homes Ranking Project
+# Elderly Care Homes Analysis & Scoring Model
 
-Objective:
-The goal of this project is to analyze and rank elderly care homes based on multiple performance dimensions (staffing level, Avg waiting time, infection rate (%), IT Readiness, resident satisfaction (1-5).
+**Objective:**
+The goal of this project is to evaluate and rank elderly care homes across multiple performance dimensions—including staffing levels, average waiting time, infection rate, IT readiness, and resident satisfaction. The analysis follows a complete end-to-end workflow: exploring the raw data, cleaning and standardizing the dataset, transforming indicators into 0–100 scores, and producing a final composite quality score for each care home.
 
 ### Data Preparation
 - Raw data cleaned and standardized
@@ -13,12 +13,12 @@ The goal of this project is to analyze and rank elderly care homes based on mult
 2. Calculated dimension scores
 3. Computed an overall ranking score per care home
 
-### Results
-The final ranking is available in
-
-### Insights 
- 🛠 Tools
-Excel for analysis and ranking logic & for visualization.
+### Key Skills
+- Data cleaning and preprocessing  
+- Designing scoring systems  
+- Creating transparent and reproducible evaluation models  
+- Working with real-world, imperfect data  
+- Clear structuring of an end-to-end analytical workflow  
 
 A glance of one of the visuals of the analysis. Showing the different Care Homes profiles in a Spider Chart. Find the full analysis in the Excel attached.
 
